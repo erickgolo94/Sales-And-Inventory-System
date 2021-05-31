@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="purchasereq" targetNamespace="http://tempuri.org/purchasereq.xsd" xmlns:mstns="http://tempuri.org/purchasereq.xsd" xmlns="http://tempuri.org/purchasereq.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="purchasereq" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="purchasereq" msprop:Generator_UserDSName="purchasereq">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_reqsupplies" msprop:Generator_TableClassName="vw_reqsuppliesDataTable" msprop:Generator_TableVarName="tablevw_reqsupplies" msprop:Generator_TablePropName="vw_reqsupplies" msprop:Generator_RowDeletingName="vw_reqsuppliesRowDeleting" msprop:Generator_RowChangingName="vw_reqsuppliesRowChanging" msprop:Generator_RowEvHandlerName="vw_reqsuppliesRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_reqsuppliesRowDeleted" msprop:Generator_UserTableName="vw_reqsupplies" msprop:Generator_RowChangedName="vw_reqsuppliesRowChanged" msprop:Generator_RowEvArgName="vw_reqsuppliesRowChangeEvent" msprop:Generator_RowClassName="vw_reqsuppliesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="reqSupID" msprop:Generator_ColumnVarNameInTable="columnreqSupID" msprop:Generator_ColumnPropNameInRow="reqSupID" msprop:Generator_ColumnPropNameInTable="reqSupIDColumn" msprop:Generator_UserColumnName="reqSupID" type="xs:string" minOccurs="0" />
+              <xs:element name="reqSupNo" msprop:Generator_ColumnVarNameInTable="columnreqSupNo" msprop:Generator_ColumnPropNameInRow="reqSupNo" msprop:Generator_ColumnPropNameInTable="reqSupNoColumn" msprop:Generator_UserColumnName="reqSupNo" type="xs:string" minOccurs="0" />
+              <xs:element name="reqBy" msprop:Generator_ColumnVarNameInTable="columnreqBy" msprop:Generator_ColumnPropNameInRow="reqBy" msprop:Generator_ColumnPropNameInTable="reqByColumn" msprop:Generator_UserColumnName="reqBy" type="xs:string" minOccurs="0" />
+              <xs:element name="dept" msprop:Generator_ColumnVarNameInTable="columndept" msprop:Generator_ColumnPropNameInRow="dept" msprop:Generator_ColumnPropNameInTable="deptColumn" msprop:Generator_UserColumnName="dept" type="xs:string" minOccurs="0" />
+              <xs:element name="remarks" msprop:Generator_ColumnVarNameInTable="columnremarks" msprop:Generator_ColumnPropNameInRow="remarks" msprop:Generator_ColumnPropNameInTable="remarksColumn" msprop:Generator_UserColumnName="remarks" type="xs:string" minOccurs="0" />
+              <xs:element name="dateRequest" msprop:Generator_ColumnVarNameInTable="columndateRequest" msprop:Generator_ColumnPropNameInRow="dateRequest" msprop:Generator_ColumnPropNameInTable="dateRequestColumn" msprop:Generator_UserColumnName="dateRequest" type="xs:string" minOccurs="0" />
+              <xs:element name="rawmaterialID" msprop:Generator_ColumnVarNameInTable="columnrawmaterialID" msprop:Generator_ColumnPropNameInRow="rawmaterialID" msprop:Generator_ColumnPropNameInTable="rawmaterialIDColumn" msprop:Generator_UserColumnName="rawmaterialID" type="xs:string" minOccurs="0" />
+              <xs:element name="rawmaterialName" msprop:Generator_ColumnVarNameInTable="columnrawmaterialName" msprop:Generator_ColumnPropNameInRow="rawmaterialName" msprop:Generator_ColumnPropNameInTable="rawmaterialNameColumn" msprop:Generator_UserColumnName="rawmaterialName" type="xs:string" minOccurs="0" />
+              <xs:element name="desc" msprop:Generator_ColumnVarNameInTable="columndesc" msprop:Generator_ColumnPropNameInRow="desc" msprop:Generator_ColumnPropNameInTable="descColumn" msprop:Generator_UserColumnName="desc" type="xs:string" minOccurs="0" />
+              <xs:element name="catDesc" msprop:Generator_ColumnVarNameInTable="columncatDesc" msprop:Generator_ColumnPropNameInRow="catDesc" msprop:Generator_ColumnPropNameInTable="catDescColumn" msprop:Generator_UserColumnName="catDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="unitDesc" msprop:Generator_ColumnVarNameInTable="columnunitDesc" msprop:Generator_ColumnPropNameInRow="unitDesc" msprop:Generator_ColumnPropNameInTable="unitDescColumn" msprop:Generator_UserColumnName="unitDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_UserColumnName="qty" type="xs:string" minOccurs="0" />
+              <xs:element name="is_active" msprop:Generator_ColumnVarNameInTable="columnis_active" msprop:Generator_ColumnPropNameInRow="is_active" msprop:Generator_ColumnPropNameInTable="is_activeColumn" msprop:Generator_UserColumnName="is_active" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

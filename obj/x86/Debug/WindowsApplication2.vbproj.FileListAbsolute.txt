@@ -1,0 +1,445 @@
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqForm.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+c:\users\asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasePending.resources
+D:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasePending.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqForm.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\db_Petromine\Project_Petromine\inventory system.vb\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasePending.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqForm.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserHistory.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSales.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransaction.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionAdd.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEndProd.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionRelease.resources
+C:\Users\ECAH\Documents\Thesis(Inventory System)\inventory system.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectClient.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasePending.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqForm.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSales.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectClient.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEndProd.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransaction.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionAdd.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionRelease.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserHistory.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProdOnhand.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRecievedRawmaterialView.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasedRawmaterialView.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionView.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProdOnhand.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasePending.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRecievedRawmaterialView.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasedRawmaterialView.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqForm.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSales.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectClient.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEndProd.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransaction.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionAdd.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionRelease.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionView.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserHistory.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormView.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmAbout.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRawmaterialReceiving.resources
+C:\Users\ECAH\Documents\PETROMINE  SYSTEM\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmAbout.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProdOnhand.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRecievedRawmaterialView.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasedRawmaterialView.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqForm.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormView.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSales.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectClient.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEndProd.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRawmaterialReceiving.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransaction.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionAdd.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionRelease.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionView.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserHistory.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderView.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserType.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderViewReport.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCity.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawmaterialSoft_Deletion.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmModifyQuantityReceving.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmInventoryDetailsHistory.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceivingPO.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectPurchaseReq.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReportSales.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormNew.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmAbout.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCity.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProdOnhand.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmInventoryDetailsHistory.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmModifyQuantityReceving.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderView.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderViewReport.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawmaterialSoft_Deletion.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceivingPO.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRecievedRawmaterialView.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasedRawmaterialView.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReportSales.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqForm.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormNew.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormView.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSales.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectClient.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEndProd.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectPurchaseReq.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRawmaterialReceiving.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransaction.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionAdd.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionRelease.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionView.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserHistory.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserType.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.cache
+F:\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmAbout.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCity.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProdOnhand.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmInventoryDetailsHistory.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmModifyQuantityReceving.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderView.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderViewReport.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawmaterialSoft_Deletion.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceivingPO.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRecievedRawmaterialView.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasedRawmaterialView.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormView.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSales.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectClient.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEndProd.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectPurchaseReq.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRawmaterialReceiving.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransaction.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionAdd.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionRelease.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionView.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserHistory.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserType.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectReqPO.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplierPO.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPOReleasingView.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormError.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormNew1.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestForm.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmAccount.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqSuppliesReport.resources
+C:\Users\Asus\Desktop\PETRO PETROMINE\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployeePO.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmAbout.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmAccount.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCategory.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmCity.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmClient.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDepartment.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmArea.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmDesignation.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEmployee.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProd.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmEndProdOnhand.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmInventoryDetailsHistory.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmLogin.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmModifyQuantityReceving.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmOnhand.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPendingReq.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPOReleasingView.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchasedReq.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderView.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmPurchaseOrderViewReport.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawMaterials.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRawmaterialSoft_Deletion.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceivingPO.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRecievedRawmaterialView.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReceiving.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasedRawmaterialView.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReleasing.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqSuppliesReport.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormError.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormNew1.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmReqFormView.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestForm.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmRequestReleased.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSales.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectClient.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployeePO.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEndProd.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectPurchaseReq.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRawmaterialReceiving.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectReqPO.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectRequest.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectEmployee.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmselectRawmaterial.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplier.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSelectSupplierPO.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmSupplier.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransaction.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionAdd.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionRelease.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmTransactionView.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUnit.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserHistory.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmUserType.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmmain.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.cache
+H:\SalesAndInventory(latestBackUp)\inventory system1.vb\WindowsApplication2\obj\x86\Debug\RdlCompile.compiled
